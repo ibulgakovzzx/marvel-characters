@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Marvel characters</string>
+
+    <string name="characters_list_network_error">Произошла ошибка при загрузке. Попробуйте позже</string>
+    <string name="characters_list_search_count_default_label">Искать</string>
+    <string name="characters_list_search_hint">Имя героя</string>
+    <string name="characters_list_search_list_placeholder">Введите текст для поиска</string>
+    <string name="characters_list_search_list_not_found_placeholder">Ничего не найдено\n. Уточните  параметры поиска</string>
+
+
+    <string name="transition_thumbnail" translatable="false">image_character</string>
+
+</resources>
